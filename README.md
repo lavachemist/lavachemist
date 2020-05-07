@@ -1,4 +1,4 @@
-# lavachemist
+# lavachemist.com
 
 ## This page is under construction at the moment.
 
