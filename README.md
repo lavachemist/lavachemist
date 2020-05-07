@@ -10,11 +10,12 @@ I'm currently working on an OpenFL project with the goal of using an open source
 
 ## Block 0 (layer 1)
 
+
 FLP Packet  | Purpose | Description
--------------------- | -------------------- |----------------------
-0x12 TimeRemaining 2264
-0x02 XYMoveClockRate 60000
-0x01 LaserPowerLevel 0
+-------------------- | -------------------- |-------------
+0x12 TimeRemaining 2264 | |
+0x02 XYMoveClockRate 60000 | |
+0x01 LaserPowerLevel 0 | |
 0x05 ZCurrent 80 | Fast Z homing Sequence | stepper current (Z motor)
 0x04 ZFeedRate 5999 | Fast Z homing Sequence | ~15mm/s (no idea the significance of the one missing microstep, probably a rounding error)
 0x03 ZMove 78670 | Fast Z homing Sequence | +196mm (stops at endstop)
@@ -49,6 +50,7 @@ FLP Packet  | Purpose | Description
 Below this are all of the galvo moves for the first layer |  | 
 
 ## Block 1 (layer 2)
+
 
 FLP Packet  | Purpose | Description | Notes
 ---------------------------- | -------------------------------- | ------------------------------------- | ------------------------------------------------------------------------------------------
