@@ -6,7 +6,7 @@ I'm currently working on an OpenFL project with the goal of using an open source
 
 -lavachemist
 
-# Here are some examples of FLP block content:
+# FLP Block Content Examples:
 
 ## Block 0 (layer 1)
 
