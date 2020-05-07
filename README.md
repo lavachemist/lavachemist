@@ -11,7 +11,7 @@ I'm currently working on an OpenFL project with the goal of using an open source
 ## Block 0 (layer 1)
 
 FLP Packet  | Purpose | Description
----------------------------------------- | -------------------- |----------------------
+-------------------- | -------------------- |----------------------
 0x12 TimeRemaining 2264
 0x02 XYMoveClockRate 60000
 0x01 LaserPowerLevel 0
