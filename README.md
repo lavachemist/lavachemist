@@ -1,4 +1,4 @@
-# This page is under construction at the moment.
+# This page is under construction
 
 My email address is [thelavachemist@gmail.com](mailto:thelavachemist@gmail.com)
 
